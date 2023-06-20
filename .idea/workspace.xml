@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fc202ac-9c5f-425e-9457-7044669821ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2RNQUAWjL5bcFj3P5qcrwY1b8Ja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/test2122t2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\kotlin\test2122t2" />
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\kotlin\test2222t2" />
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\kotlin\test-2223t2" />
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\kotlin\test2223t1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\resources" />
+      <recent name="C:\Users\tiago\Desktop\tds_test_prep\compose_test_prep\src\main\kotlin\test-2223t2" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="test2222t2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainTest2223t2Kt">
+    <configuration name="MainTest2222t2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2222t2.MainTest2222t2Kt" />
+      <module name="compose_test_prep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest2223t2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2223t2.MainTest2223t2Kt" />
+      <module name="compose_test_prep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleChoiceKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2222t2.MultipleChoiceKt" />
+      <module name="compose_test_prep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleChoiceKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2122t2.MultipleChoiceKt" />
+      <module name="compose_test_prep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleChoiceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2223t2.MultipleChoiceKt" />
+      <module name="compose_test_prep.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.MultipleChoiceKt" />
+      <item itemvalue="Kotlin.MainTest2222t2Kt" />
+      <item itemvalue="Kotlin.MultipleChoiceKt (1)" />
+      <item itemvalue="Kotlin.MultipleChoiceKt (3)" />
+      <item itemvalue="Kotlin.MainTest2223t2Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainTest2223t2Kt" />
+        <item itemvalue="Kotlin.MultipleChoiceKt (3)" />
+        <item itemvalue="Kotlin.MultipleChoiceKt (1)" />
+        <item itemvalue="Kotlin.MainTest2222t2Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc202ac-9c5f-425e-9457-7044669821ac" name="Changes" comment="" />
+      <created>1687088071687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687088071687</updated>
+      <workItem from="1687088072958" duration="1885000" />
+      <workItem from="1687090001528" duration="6521000" />
+      <workItem from="1687099918166" duration="11627000" />
+      <workItem from="1687195484087" duration="4496000" />
+      <workItem from="1687220648637" duration="132000" />
+      <workItem from="1687220823945" duration="170000" />
+      <workItem from="1687221010661" duration="3037000" />
+      <workItem from="1687224114337" duration="277000" />
+      <workItem from="1687224438004" duration="514000" />
+      <workItem from="1687225048631" duration="1257000" />
+      <workItem from="1687252666282" duration="9866000" />
+      <workItem from="1687273681748" duration="5000" />
+      <workItem from="1687273748288" duration="481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/test2222t2/Eval.kt</url>
+          <line>9</line>
+          <properties class="test2222t2.Eval" method="inc">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/test2122t2/multipleChoice.kt</url>
+          <line>8</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/test2223t2/Score.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Object" memberName="a" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
